@@ -1,4 +1,4 @@
-# Python Resources
+# Best Python Resources
 
 Open resources for learning and using the Python programming language.
 
